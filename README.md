@@ -1,36 +1,30 @@
+for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
 
-# 👋 Hi there! I'm Omkar
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
 
-## About Me
-I'm a passionate developer who loves to create and innovate. I enjoy tackling challenging problems and learning new technologies.
+```txt
+No activity tracked
+```
 
-### 🔭 Currently Working On
-- [Project Name] - Brief description
-- [Another Project] - Brief description
+<!--END_SECTION:waka-->
 
-### 🌱 Currently Learning
-- Technology 1
-- Technology 2
-- Technology 3
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-### 💼 Skills
-- **Languages:** Python, JavaScript, Java, etc.
-- **Frontend:** React, HTML, CSS
-- **Backend:** Node.js, Express
-- **Database:** MongoDB, PostgreSQL
-- **Tools:** Git, Docker, VS Code
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-### 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn]
-- Email: your.email@example.com
-- Twitter: [@YourHandle]
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
 
-### 📊 GitHub Stats
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omk2110&show_icons=true&theme=radical)
 
-### 🤝 Open to Collaboration
-I'm always interested in collaborating on exciting projects! Feel free to reach out if you'd like to work together.
+📈 my github stats
 
----
-⭐️ From [Omkar](https://github.com/Omk2110)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
 
