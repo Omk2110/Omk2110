@@ -40,4 +40,3 @@ An end-to-end, LangGraph-based database schema discovery system that performs se
 
 ---
 *Feel free to explore my repositories and drop a star if you find them interesting!*
-```
