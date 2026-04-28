@@ -29,14 +29,4 @@ A robust system leveraging AI and Firebase to automate attendance tracking. It d
 ### ⚙️ Database Schema Discovery Agent
 An end-to-end, LangGraph-based database schema discovery system that performs semantic domain clustering and extracts relationship mappings.
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omk2110&show_icons=true&theme=radium" alt="Omkar's GitHub stats" />
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omk2110&layout=compact&theme=radium" alt="Top Langs" />
-</div>
-
----
 *Feel free to explore my repositories and drop a star if you find them interesting!*
