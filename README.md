@@ -31,7 +31,7 @@ An end-to-end, LangGraph-based database schema discovery system that performs se
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omk2110&label=Profile%20views&color=0e75b6&style=flat" alt="omk2110" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omk2110" alt="omk2110" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="ryo-ma" /></a> </p>
 
 *Feel free to explore my repositories and drop a star if you find them interesting!*
 
