@@ -29,7 +29,7 @@ A robust system leveraging AI and Firebase to automate attendance tracking. It d
 ### ⚙️ Database Schema Discovery Agent
 An end-to-end, LangGraph-based database schema discovery system that performs semantic domain clustering and extracts relationship mappings.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omk2110&label=Profile%20views&color=0e75b6&style=flat" alt="omk2110" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryo-ma&label=Profile%20views&color=0e75b6&style=flat" alt="ryo-ma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="ryo-ma" /></a> </p>
 
